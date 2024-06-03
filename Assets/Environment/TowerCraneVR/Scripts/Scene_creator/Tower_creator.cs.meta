@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a46acc4c151a5be4fa9b6d58dd90baa1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TC_base: {fileID: 6235406658053470882, guid: f7c27a5561ce9644eb40080a172799b6, type: 3}
+  - TC_frame: {fileID: 3837554487428637769, guid: 2025e4d27fdafc34489326726cec8ae9, type: 3}
+  - TC_head: {fileID: 8157337486547887991, guid: 4f27c98d640e25f4b97df9a4f44539e2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
